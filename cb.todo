@@ -1,0 +1,15 @@
+ToDos:
+  ✔ Nummerierung @done (14-03-19 14:21)
+  ☐ Metabox pro Post
+  ✔ Farb Editor @done (14-03-20 10:40)
+  ✔ Setting only single? @done (14-03-19 21:30)
+
+ Source:
+   https://github.com/rachelbaker/iris-color-picker-demo
+
+Deployment:
+  - Change version in citation-box.php
+  - Change version + date in README.md header
+  - Add Changelog
+  - merge in master -> commit msg: [RELEASE] v0.x.x
+  - tag commit
